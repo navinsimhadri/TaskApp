@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TaskApp</string>
+
+    <string name="generic_server_timeout" translatable="false">Looks like the server is taking to long to respond, Please try again.</string>
+
+    <string name="no_internet" translatable="false">please check for internet connection.</string>
+
 </resources>
